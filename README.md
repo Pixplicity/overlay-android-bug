@@ -1,7 +1,9 @@
 # overlay-android-bug
-Demo of a bug in Android 7.1.2 (Nougat) on a Nexus 6P
+Demo of a (now fixed) bug in Android 7.1.2 (Nougat) on a Nexus 6P.
 
 [Follow the issue on the issuetracker](https://issuetracker.google.com/issues/37885328)
+
+*Goshdarnit! Of course I created this test project on the very day Google released an OTA that fixed the issue. As you can see in the issue tracker, this bug is now solved in 7.1.2 build N2G47O.*
 
 ## The issue
 
@@ -25,6 +27,7 @@ Since Android M (23), there's a special security setting to allow apps to draw o
 
 **Works:**
 
+- Nexus 6P 7.1.2-3852959
 - Pixel 7.1.2-3766409
 - Nexus 5 6.0.2-3437181
 
