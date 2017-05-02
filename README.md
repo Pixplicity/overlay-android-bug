@@ -1,6 +1,8 @@
 # overlay-android-bug
 Demo of a bug in Android 7.1.2 (Nougat) on a Nexus 6P
 
+[Follow the issue on the issuetracker](https://issuetracker.google.com/issues/37885328)
+
 ## The issue
 
 Since Android M (23), there's a special security setting to allow apps to draw on top of other apps. Since Android 7.1.2, requesting the state of this setting always fails on the Nexus 6P.
@@ -26,7 +28,7 @@ Since Android M (23), there's a special security setting to allow apps to draw o
 - Pixel 7.1.2-3766409
 - Nexus 5 6.0.2-3437181
 
-Feel free to submit pull requests if you find more failing OS versions or models.
+Feel free to submit pull requests if you find more failing OS versions or models, and [please star the issue](https://issuetracker.google.com/issues/37885328) if you are affected.
 
 ## Details
 
