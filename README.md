@@ -11,3 +11,6 @@ Since Android M (23), there's a special security setting to allow apps to draw o
 2. Call `Settings.canDrawOverlays(context)`,
 3. It will return `false`, even with the permission granted.
 
+## Screenshots
+
+<img src="https://github.com/Pixplicity/overlay-android-bug/blob/master/screenshots/screenshot1.png?raw=true" width="300" /> <img src="https://github.com/Pixplicity/overlay-android-bug/blob/master/screenshots/screenshot2.png?raw=true" width="300" />
