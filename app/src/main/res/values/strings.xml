@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OverlayDemo</string>
+    <string name="has_permission">Can draw over other apps:</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="bt_settings">Go to settings</string>
+</resources>
