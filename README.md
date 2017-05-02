@@ -14,3 +14,16 @@ Since Android M (23), there's a special security setting to allow apps to draw o
 ## Screenshots
 
 <img src="https://github.com/Pixplicity/overlay-android-bug/blob/master/screenshots/screenshot1.png?raw=true" width="300" /> <img src="https://github.com/Pixplicity/overlay-android-bug/blob/master/screenshots/screenshot2.png?raw=true" width="300" />
+
+## 
+
+**Does not work:**
+
+- Nexus 6P 7.1.2-3783593
+
+**Works:**
+
+- Pixel 7.1.2-3766409
+- Nexus 5 6.0.2-3437181
+
+Feel free to submit pull requests if you find more failing OS versions or models.
